@@ -11,4 +11,4 @@
 ## Requirements
 
 1. [Qt](https://www.qt.io/)
-2. [OpeCV 3.4](https://opencv.org/)
+2. [OpenCV 3.4](https://opencv.org/)
